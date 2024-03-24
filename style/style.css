@@ -1,0 +1,18 @@
+/*global*/
+*{
+    padding: 0;
+    margin: 0; 
+}
+body{
+    font-family: arial;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+/* Utilities */
+
+/* Header */
+.site-header{
+    background-image: url(img/header.jpg);
+}
